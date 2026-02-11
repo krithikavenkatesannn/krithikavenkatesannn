@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Krithika 
 
-<!--
-**krithikavenkatesannn/krithikavenkatesannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m a data analyst working with NGOs and small businesses to design data-driven solutions that improve product performance and support better decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on KPI development, user behaviour analysis, and building clear, actionable dashboards that solve real business problems.
+
+Feel free to  reach out at **krithikavenkatesannn@gmail.com**
+
+![Profile Views](https://komarev.com/ghpvc/?username=krithikavenkatesannn&color=8A2BE2)
+
+
+
+
+
+
+
+
+## 🌐 Connect With Me  
+
+• Read my articles on Medium ➡︎ [Medium]( https://medium.com/@krithikavenkatesannn)
+
+• Connect with me on LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/krithika-venkatesan-8s/)
+
+
+
+
+
+## ⭐ Featured Projects  
+
+• Subscription Lifecycle & User Retention Analysis  
+
+• A/B Testing & Social Badge Impact Study  
+
+• E-commerce Product Performance Analysis  
+
+
+
+## 🛠️ Core Focus  
+
+• KPI & Metrics Development
+
+• Product & User Behaviour Analysis  
+
+• Funnel & Retention Insights  
+
+• Dashboard Reporting  
+
+• Data Cleaning & Transformation  
