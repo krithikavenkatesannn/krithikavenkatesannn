@@ -19,10 +19,13 @@
 ## ⭐ Featured Projects  
 
 ### 🔹 Subscription Lifecycle & User Retention Analysis  
-Analyzed user cohorts and behavior to identify **churn patterns** and **retention opportunities**.  
+Analyzed user cohorts and behavioral patterns to identify **churn drivers** and drop-off points.  
+Proposed targeted retention strategies to improve user engagement and lifecycle value.  
 
 ### 🔹 A/B Testing & Social Badge Impact Study  
-Evaluated experiment results to measure **conversion impact** and guide product decisions.  
+Designed and evaluated an experiment to measure the impact of social-proof badges on **conversion rates**.  
+Derived insights to support data-driven product decisions and optimize user experience.  
 
 ### 🔹 E-commerce Product Performance Analysis  
-Explored sales trends, product performance, and refunds to identify **revenue drivers**.  
+Analyzed sales, product trends, and refund behavior to identify **top-performing categories** and revenue leakages.  
+Provided recommendations to improve pricing, product strategy, and overall revenue performance.  
