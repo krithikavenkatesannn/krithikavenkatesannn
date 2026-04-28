@@ -4,7 +4,7 @@
 
 **Core expertise:** KPI framework development, reporting, and structured data analysis.  
 
-📩 **Open to opportunities:**krithikaa.venkatesan@gmail.com  
+📩 **Open to opportunities:** krithikaa.venkatesan@gmail.com  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krithikavenkatesannn&color=7C3AED)
 
